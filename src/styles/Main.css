@@ -1,0 +1,18 @@
+#main-copy {
+  border: solid white 1px;
+  padding: 2rem;
+}
+
+.exercise {
+  /* background-color: #f4f4f4; */
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.exercise h2 {
+  color: #ffffff;
+}
+
+.exercise p {
+  margin: 10px 0;
+}
